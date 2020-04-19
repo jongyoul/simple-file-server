@@ -1,6 +1,8 @@
 # How to test
 
+```shell script
 git clone git@github.com:jongyoul/simple-file-server.git
+```
 
 ## Server
 
